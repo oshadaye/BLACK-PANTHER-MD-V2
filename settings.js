@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['Yeshan basnayake🌹⃝⃘̉̉̉̉̉̉🧚']
 
 global.premium = ['🖤Black Panther Bot🖤']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+94722068707'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'Yeshan basnayake🌹⃝⃘̉̉̉̉̉̉🧚'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = '🖤ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐Bot🖤'
 
-global.footer = '©Black panther🖤.'
+global.footer = '©ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐🖤.'
 
 global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
@@ -59,7 +59,7 @@ global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = '🖤ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ⇅࿐Bot🖤'
 
 global.author = '🖤Black Panther Bot🖤'
 
@@ -69,7 +69,11 @@ global.prefa = ['','!','.','❄','🖤','☃']
 
 global.sp = '◈'
 
-global.mess = {
+global.mess ='_*Bot Is Alive Now.....😁❤️*_'
+
+'_*♦️➢⃝⃟❦ꪗꫀ𝘴ꫝʙᴏᴛ♦️*_ And _*♦️➢⃝⃟❦ꪀꫀꪶꪊ ʙᴏᴛ♦️*_'
+
+'_*𝓽ꫝꪖꪀ𝘬𝘴 ᦔꪮ𝘳 ꫀꪜꫀ𝘳ꪗꪮꪀꫀ*_'
 
     success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
 
