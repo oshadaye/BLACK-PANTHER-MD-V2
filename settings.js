@@ -29,7 +29,7 @@ global.APIs = {
 
 //Api Key\\
 
-global.APIKeys = {
+global.APIKeys = {bec2c894-8605-4af7-9912-c7ebf5b0004a}
 
 	'https://zenzapis.xyz': '0b0df72a76', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 
@@ -63,7 +63,7 @@ global.packname = '🖤ʀͥᴇᷧᴀʟⷨ٭͢★❮᭄  ᷜʏͥᴇᷠʜᷚᴀɴ�
 
 global.author = '🖤Black Panther Bot🖤'
 
-global.sessionName = 'session'
+global.sessionName = 'Blacy'
 
 global.prefa = ['','!','.','❄','🖤','☃']
 
